@@ -1,7 +1,7 @@
 default_language_version:
     python: python3.9
 
-exclude: '.git'
+exclude: '.git,.md'
 default_stages: [commit]
 
 repos:
